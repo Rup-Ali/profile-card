@@ -3,5 +3,11 @@
 
 
 <h3  align="left" alt="code" width="400" >This is a simple card design made <br>from Frontend.
-Source Code of profile card using<br> HTML, CSS, Javascript...</h3><img align="right"  width="250" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"></h1>
+Source Code of profile card using<br> HTML, CSS, Javascript...</h3>
 
+<div class="skills-section">
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
